@@ -57,14 +57,12 @@
 ## 💬 Connect With Me
 
 <p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm5yd3hzMmNnaDhzYWZtZW03eHR0c2VrdXhvbW80cjh6aW5yeWc0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WzjY7ADBdfBAY/giphy.gif" style="width:100%;" />
+</p>
+<p align="center">
   <a href="mailto:vighumandy420@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/vighnesh-mandavkar-3103b8254/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/VighneshMandav1"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://infernodragon456.github.io"><img src="https://img.shields.io/badge/Portfolio-212121?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </p>
-
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm5yd3hzMmNnaDhzYWZtZW03eHR0c2VrdXhvbW80cjh6aW5yeWc0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WzjY7ADBdfBAY/giphy.gif" style="width:100%;" />
-</p>
-
-Built with ❤️ & Markdown_
+<p align="center"> Built with ❤️ & Markdown </p>
