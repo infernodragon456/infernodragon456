@@ -18,7 +18,6 @@
 - 🌱 Learning **3D stuff**, **Golang** and advanced **Computer Graphics** and interested in **Cloud Platforms**
 - 💬 Talk to me about JavaScript, Python, TypeScript, GameDev, or anything tech-related
 - 📫 Reach me: vighumandy420@gmail.com
-- ⚡ Fun fact: My commit streak once survived final-exam season!
 
 ---
 
@@ -30,29 +29,12 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=infernodragon456&show_icons=true&theme=github_dark&rank_icon=github" alt="GitHub Stats"/>
   <img src="https://streak-stats.demolab.com?user=infernodragon456&theme=github-dark-blue&hide_border=false" alt="GitHub Streak"/>
 </p>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Tech | ⭐ |
-|---------|------|----|
-| [Prometeo-25](https://github.com/infernodragon456/prometeo-25-updated) | JavaScript, Express | ![GitHub stars](https://img.shields.io/github/stars/infernodragon456/prometeo-25-updated?style=social) |
-| [Deepfake Detection Indian Art](https://github.com/infernodragon456/Deepfake-Detection-of-Indian-Artist-Paintings) | Python, ML | ![GitHub stars](https://img.shields.io/github/stars/infernodragon456/Deepfake-Detection-of-Indian-Artist-Paintings?style=social) |
-| [Modern StackOverflow (Next.js)](https://github.com/infernodragon456/modern-stack-overflow-nextjs) | TypeScript, Next.js | ![GitHub stars](https://img.shields.io/github/stars/infernodragon456/modern-stack-overflow-nextjs?style=social) |
-| [Star Rail Parser](https://github.com/infernodragon456/star-rail-parser) | Python | ![GitHub stars](https://img.shields.io/github/stars/infernodragon456/star-rail-parser?style=social) |
-
-> Explore more in the **Pinned** section!
-
----
-
-## 🏆 GitHub Trophies
 
 <table align="center">
   <tr>
@@ -72,28 +54,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/infernodragon456/infernodragon456/output/github-contribution-grid-snake-dark.svg" 
-    />
-    <source 
-      media="(prefers-color-scheme: light)" 
-      srcset="https://raw.githubusercontent.com/infernodragon456/infernodragon456/output/github-contribution-grid-snake.svg" 
-    />
-    <img 
-      alt="github contribution snake animation" 
-      src="https://raw.githubusercontent.com/infernodragon456/infernodragon456/output/github-contribution-grid-snake.svg" 
-    />
-  </picture>
-</p>
-
-
----
-
 ## 💬 Connect With Me
 
 <p align="center">
@@ -103,6 +63,8 @@
   <a href="https://infernodragon456.github.io"><img src="https://img.shields.io/badge/Portfolio-212121?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </p>
 
----
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm5yd3hzMmNnaDhzYWZtZW03eHR0c2VrdXhvbW80cjh6aW5yeWc0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WzjY7ADBdfBAY/giphy.gif" style="width:100%;" />
+</p>
 
-_⭐️ Inspired by open-source community • Built with ❤️ & Markdown_
+Built with ❤️ & Markdown_
