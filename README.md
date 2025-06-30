@@ -16,7 +16,7 @@
 - 🏫 **Student / Developer** passionate about full-stack web, game dev & ML
 - 🔭 Currently working at **SACOM** as SWE and a few other projects!
 - 🌱 Learning **3D stuff**, **Golang** and advanced **Computer Graphics** and interested in **Cloud Platforms**
-- 💬 Talk to me about JavaScript, Python, TypeScript, Unity / Godot, or anything tech-related
+- 💬 Talk to me about JavaScript, Python, TypeScript, GameDev, or anything tech-related
 - 📫 Reach me: vighumandy420@gmail.com
 - ⚡ Fun fact: My commit streak once survived final-exam season!
 
@@ -57,7 +57,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=infernodragon456&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=gotham&hide_border=false&order=2" height="180" alt="languages graph" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=infernodragon456&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=gotham&hide_border=false&order=2&hide=jupyter%20notebook" height="180" alt="languages graph" />
     </td>
     <td align="center">
       <img src="https://github-profile-trophy.vercel.app?username=infernodragon456&theme=dracula&column=3&row=1&margin-w=15&margin-h=10&no-bg=false&no-frame=false&order=4" height="180" alt="trophy graph" />
@@ -76,11 +76,21 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/infernodragon456/infernodragon456/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/infernodragon456/infernodragon456/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/infernodragon456/infernodragon456/output/github-contribution-grid-snake.svg" />
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/infernodragon456/infernodragon456/output/github-contribution-grid-snake-dark.svg" 
+    />
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/infernodragon456/infernodragon456/output/github-contribution-grid-snake.svg" 
+    />
+    <img 
+      alt="github contribution snake animation" 
+      src="https://raw.githubusercontent.com/infernodragon456/infernodragon456/output/github-contribution-grid-snake.svg" 
+    />
   </picture>
 </p>
+
 
 ---
 
