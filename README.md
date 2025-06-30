@@ -14,10 +14,10 @@
 ## 👨‍💻 About Me
 
 - 🏫 **Student / Developer** passionate about full-stack web, game dev & ML
-- 🔭 Currently working on **Prometeo-25** (JS) and **Deepfake Detection** (Python)
-- 🌱 Learning **Next.js**, **Rust** and advanced **Computer Graphics**
-- 💬 Ask me about JavaScript, Python, TypeScript, Unity / Godot, or anything tech-related
-- 📫 Reach me: *add your email or LinkedIn URL here*
+- 🔭 Currently working at **SACOM** as SWE and a few other projects!
+- 🌱 Learning **3D stuff**, **Golang** and advanced **Computer Graphics** and interested in **Cloud Platforms**
+- 💬 Talk to me about JavaScript, Python, TypeScript, Unity / Godot, or anything tech-related
+- 📫 Reach me: vighumandy420@gmail.com*
 - ⚡ Fun fact: My commit streak once survived final-exam season!
 
 ---
@@ -25,7 +25,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,nodejs,react,nextjs,html,css,tailwind,git,github,linux,bash,unity,godot&perline=8" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,cs,nodejs,go,react,nextjs,threejs,django,firebase,flutter,mongodb,postgres,html,css,bash,tailwind,bash,unity,godot,blender,figma,docker,aws,gcp,pytorch,raspberrypi&perline=8" alt="Tech Stack"/>
 </p>
 
 ---
@@ -35,7 +35,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=infernodragon456&show_icons=true&theme=github_dark&rank_icon=github" alt="GitHub Stats"/>
   <img src="https://streak-stats.demolab.com?user=infernodragon456&theme=github-dark-blue&hide_border=false" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infernodragon456&layout=compact&theme=github_dark" alt="Top Languages"/>
 </p>
 
 ---
@@ -78,7 +77,7 @@
 <p align="center">
   <a href="mailto:vighumandy420@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/vighnesh-mandavkar-3103b8254/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://x.com/VighneshMandav1"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://infernodragon456.github.io"><img src="https://img.shields.io/badge/Portfolio-212121?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </p>
 
