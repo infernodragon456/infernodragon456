@@ -24,7 +24,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,cs,nodejs,go,react,nextjs,threejs,django,firebase,flutter,mongodb,postgres,html,css,bash,tailwind,bash,unity,godot,blender,figma,docker,aws,gcp,pytorch,raspberrypi&perline=8" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,cs,nodejs,go,dart,react,nextjs,sentry,threejs,django,firebase,flutter,androidstudio,mongodb,mysql,postgres,html,css,htmx,tailwind,neovim,bash,linux,unity,godot,blender,figma,docker,aws,gcp,pytorch,raspberrypi,materialui,figma,ai&perline=8" alt="Tech Stack"/>
 </p>
 
 ---
