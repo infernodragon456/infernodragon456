@@ -39,7 +39,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=infernodragon456&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=gotham&hide_border=false&order=2&hide=jupyter%20notebook" height="180" alt="languages graph" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=infernodragon456&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=gotham&hide_border=false&order=2" height="180" alt="languages graph" />
     </td>
     <td align="center">
       <img src="https://github-profile-trophy.vercel.app?username=infernodragon456&theme=dracula&column=3&row=1&margin-w=15&margin-h=10&no-bg=false&no-frame=false&order=4" height="180" alt="trophy graph" />
